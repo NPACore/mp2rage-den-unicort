@@ -5,6 +5,8 @@ Entrypoint is `010_mp2rage_unicort.bash`
   - runs SPM's unicort
   - saves output as T1w for eg. fmriprep
 
+![input to output steps](unt1_den_unicort_example.png)
+
 ## BIDS input files
 Input should be BIDS formated nifti files. Like
 ```
